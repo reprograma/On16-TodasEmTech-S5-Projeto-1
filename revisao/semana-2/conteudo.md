@@ -1,0 +1,2 @@
+- Declaração de Funções, anônimas e arrow function
+- Estrutura condicional: if..else, switch...case e ternário
