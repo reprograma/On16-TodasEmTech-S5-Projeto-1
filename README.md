@@ -3,26 +3,14 @@
 **Semana 5 – Resolução de Problemas/Lógica aplicada e JavaScript (sintaxe básica)**
 
 1. Revisão
-  - Tipos de dados
-  - Variáveis
-  - Operadores
-  - Funções e escopo
-  - Estrutura condicional
-  - Estrutura de repetição
-  - Objetos
-  - Arrays
-  - Métodos de iteração
+  - Tipos de dados, Variáveis e Operadores
+  - Declaração de Funções, anônimas e arrow function
+  - Estrutura condicional: if..else, switch...case e ternário
+  - Estrutura de repetição: for, while e do...while
+  - Objetos e Arrays: Destructuring, spread operator, criar, acessar, incluir e deletar item 
+  - Métodos de iteração: sort, map, reduce, filter e find
 
-2. Extra - Js moderninho
-
-  - Template string
-  - Operador ternário
-  - Arrow functions
-  - Operador spread
-  - Objetos e Destructuring
- 
-
-3. Projeto integrador I
+2. Projeto integrador I
 
 <br>
 <br>
