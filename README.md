@@ -27,7 +27,6 @@
 ------
 
 ![image](https://media.giphy.com/media/3o7btUrUUiljkVzDBS/giphy.gif)
-
 # 🚀 `SI`stema de gerenciamento de livros
 
 E aeeee! Este é um repositório consolidando os nossos estudos das últimas 3 semanas de lógica aplicada com javascript.
@@ -94,6 +93,9 @@ Siga os passos abaixo:
 - Caso a pessoa usuária escolha alguma opção inexistente deverá mostrar no console a string 'fim do algoritmo'.
 - O comportamento esperado deve ser o pedido da entrada e a impressão das tabelas buscadas no console, conforme requisitos acima.
 ```
+
+`COMPORTAMENTO ESPERADO`
+![image](https://media.giphy.com/media/28jwwTNDkRl4pINd7c/giphy.gif)
 
 ## `Dados`
 
