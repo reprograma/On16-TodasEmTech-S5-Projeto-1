@@ -1,5 +1,3 @@
-const { findSourceMap } = require("module")
-
 const turma = [
   {
     name:'Gaia',

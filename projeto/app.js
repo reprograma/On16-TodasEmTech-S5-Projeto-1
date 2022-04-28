@@ -1,5 +1,5 @@
-const read = require('readline-sync')
-const buscarLivros = require('./controllers/buscarLivros')
+const read = require('readline-sync') // trazendo pra o projeto o poder de pegar input no terminal
+const buscarLivros = require('./controllers/buscarLivros') //trazendo pra o app as informacoes que estao no arquivo buscarLivros
 
 const resposta = read.question(`
 ====================== Menu ========================
@@ -23,6 +23,7 @@ switch (resposta) {
     break
   case '2':
     //chamar a funcao listarLivrosOrdenados
+    
     break
   default:
     console.log('fim do algoritmo')
